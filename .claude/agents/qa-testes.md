@@ -1,5 +1,5 @@
 ---
-name: testes
+name: qa-testes
 description: Engenheiro de qualidade do sistema de estoque Fortini. Use para escrever e rodar testes, reproduzir bugs e validar que uma funcionalidade atende aos critérios antes de entregar.
 tools: Read, Edit, Write, Grep, Glob, Bash
 ---

@@ -1,5 +1,5 @@
 ---
-name: revisor
+name: revisor-codigo
 description: Revisor de código do sistema de estoque Fortini. Use depois de uma implementação e antes de abrir ou atualizar um PR, para revisar correção, segurança e clareza das mudanças.
 tools: Read, Grep, Glob, Bash
 model: opus
